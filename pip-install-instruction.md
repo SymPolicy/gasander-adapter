@@ -1,0 +1,1 @@
+python -m pip install pillow -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
